@@ -5,8 +5,9 @@
 ██╔══╝  ██║     ██╔══╝  ██║   ██║╚════██║██╔══██║██║╚██╔╝██║
 ███████╗╚██████╗██║     ╚██████╔╝███████║██║  ██║██║ ╚═╝ ██║
 ╚══════╝ ╚═════╝╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
-              PWNED BY BackdoorAli aka NotAlita
-                 Red Team Recon Toolkit v1.0
+(Enumeration, Collection, Fingerprinting, Overview, Scanning, Analysis, Mapping)   
+            PWNED BY BackdoorAli aka NotAlita
+               Red Team Recon Toolkit v1.0
 ```
 
 ## Overview
