@@ -1,0 +1,17 @@
+# === CORE LIBRARIES ===
+requests               # pip install requests
+python-whois           # pip install python-whois
+reportlab              # pip install reportlab
+dnspython              # pip install dnspython
+
+# === RECOMMENDED FOR AGGRESSIVE/ADVANCED MODULES ===
+tqdm                   # pip install tqdm            -> Used for progress bars (e.g., DirBuster)
+shodan                 # pip install shodan          -> Required for Shodan API integration
+builtwith              # pip install builtwith       -> Used for technology stack fingerprinting
+beautifulsoup4         # pip install beautifulsoup4  -> Required for parsing social profile content
+lxml                   # pip install lxml            -> Fast XML/HTML parser for BeautifulSoup
+
+# === NOTES ===
+# All commands assume Python 3+ environment
+# Optional: python3 -m pip install -r requirements.txt
+# Recommended OS: Linux/macOS or WSL on Windows

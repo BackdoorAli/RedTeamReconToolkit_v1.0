@@ -1,0 +1,10 @@
+admin
+login
+dashboard
+config
+test
+api
+portal
+backup
+public
+private
