@@ -5,7 +5,8 @@
 ██╔══╝  ██║     ██╔══╝  ██║   ██║╚════██║██╔══██║██║╚██╔╝██║
 ███████╗╚██████╗██║     ╚██████╔╝███████║██║  ██║██║ ╚═╝ ██║
 ╚══════╝ ╚═════╝╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
-(Enumeration, Collection, Fingerprinting, Overview, Scanning, Analysis, Mapping)   
+    (Enumeration, Collection, Fingerprinting, Overview
+               Scanning, Analysis, Mapping)   
             PWNED BY BackdoorAli aka NotAlita
                Red Team Recon Toolkit v1.0
 ```
