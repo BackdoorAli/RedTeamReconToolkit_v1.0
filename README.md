@@ -113,9 +113,9 @@ This toolkit is intended for:
 - ✅ Authorised testing environments
 - ✅ Demonstration of capabilities during job applications
 
-For any organizational or commercial use, please contact the author to request a formal license and usage agreement.
+For any organisational or commercial use, please contact the author to request a formal license and usage agreement.
 
-See full legal terms in [LICENSE](LICENSE)
+See the full legal terms in [LICENSE](LICENSE)
 
 ---
 
