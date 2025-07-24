@@ -110,8 +110,8 @@ You may **not copy, reuse, distribute, or integrate** this toolkit without the e
 This toolkit is intended for:
 
 - ✅ Personal, educational use
-- ✅ Authorized testing environments
-- ✅ Demonstrating capability during job applications
+- ✅ Authorised testing environments
+- ✅ Demonstration of capabilities during job applications
 
 For any organizational or commercial use, please contact the author to request a formal license and usage agreement.
 
