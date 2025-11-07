@@ -102,16 +102,16 @@ python main.py
 
 ---
 
-## ⚠️ LICENSE & USAGE
+## LICENSE & USAGE
 
 This project is protected under a **custom Proprietary License**.  
 You may **not copy, reuse, distribute, or integrate** this toolkit without the explicit, signed, and written permission of the author.
 
 This toolkit is intended for:
 
-- ✅ Personal, educational use
-- ✅ Authorised testing environments
-- ✅ Demonstration of capabilities during job applications
+- Personal, educational use
+- Authorised testing environments
+- Demonstration of capabilities during job applications
 
 For any organisational or commercial use, please contact the author to request a formal license and usage agreement.
 
