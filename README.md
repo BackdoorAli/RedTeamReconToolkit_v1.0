@@ -33,14 +33,14 @@ The **Red Team Recon Toolkit** is a personal cybersecurity recon suite designed 
 - Historical DNS Dump
 - Email Harvester
 - Social Profile Enumerator
-- Favicon Hash Analyzer
+- Favicon Hash Analyser
 - ASN & IP Range Scanner
 - Passive Recon Toolkit
 
 ### CLI Capabilities
 - Mode toggle: Stealth vs Aggressive
 - Selective module execution or all-in-one batch
-- Dynamic CLI interface with banners and organized menus
+- Dynamic CLI interface with banners and organised menus
 
 ### Output & Reporting
 - HTML + PDF reporting via report_gen.py
@@ -131,4 +131,4 @@ GitHub: [https://github.com/BackdoorAli](https://github.com/BackdoorAli)
 Interested in hiring, licensing, or collaborative use?  
 Reach out at: [https://github.com/BackdoorAli](https://github.com/BackdoorAli)
 
-Last updated: July 24, 2025
+Last updated: January 20, 2026
