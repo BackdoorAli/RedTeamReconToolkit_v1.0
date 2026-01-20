@@ -13,7 +13,7 @@
 
 ## Overview
 
-The **Red Team Recon Toolkit** is a personal cybersecurity recon suite designed and developed by **BackdoorAli aka NotAlita**. This project was built to demonstrate technical capabilities in offensive security, and is intended strictly for **educational, professional portfolio, and authorized use only**.
+The **Red Team Recon Toolkit** is a personal cybersecurity recon suite designed and developed by **BackdoorAli aka NotAlita**. This project was built to demonstrate technical capabilities in offensive security, and is intended strictly for **educational, professional portfolio, and authorised use only**.
 
 ---
 
